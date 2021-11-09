@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> e2edc07ba04057b1f3103f2f8568dfc2b2d453df
 # Created by https://www.toptal.com/developers/gitignore/api/unrealengine
 # Edit at https://www.toptal.com/developers/gitignore?templates=unrealengine
 
@@ -94,6 +97,7 @@ Build/Android/res/*/*
 # End of https://www.toptal.com/developers/gitignore/api/unrealengine
 
 Content/*
+<<<<<<< HEAD
 =======
 # Created by https://www.toptal.com/developers/gitignore/api/unrealengine
 # Edit at https://www.toptal.com/developers/gitignore?templates=unrealengine
@@ -191,4 +195,6 @@ Build/Android/res/*/*
 
 Content/*
 >>>>>>> b21304fb3addce62852e363f1858c2dd839fa578
+=======
+>>>>>>> e2edc07ba04057b1f3103f2f8568dfc2b2d453df
 !Content/ThirdPersonBP/

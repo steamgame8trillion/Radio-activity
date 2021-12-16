@@ -93,4 +93,4 @@ Build/Android/res//*
 # End of https://www.toptal.com/developers/gitignore/api/unrealengine
 
 Content/*
-!Content/ThirdPersonBP
+!Content/ThirdPersonBP/

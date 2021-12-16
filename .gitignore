@@ -93,10 +93,4 @@ Build/Android/res//*
 # End of https://www.toptal.com/developers/gitignore/api/unrealengine
 
 Content/*
-!Content/ThirdPersonBP/AI
-!Content/ThirdPersonBP/Blueprints
-!Content/ThirdPersonBP/myAnim
-!Content/ThirdPersonBP/myCharacters
-!Content/ThirdPersonBP/myImports
-!Content/ThirdPersonBP/FPS_hud_TrashFile
-!Content/ThirdPersonBP/ThirdPersonOverview
+!Content/ThirdPersonBP

@@ -100,3 +100,5 @@ Content/*
 !Content/ThirdPersonBP/myImports
 !Content/ThirdPersonBP/FPS_hud_TrashFile
 !Content/ThirdPersonBP/ThirdPersonOverview
+!Content/ThirdPersonBP/items
+!Content/ThirdPersonBP/Font

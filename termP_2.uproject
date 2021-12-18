@@ -18,13 +18,21 @@
 		},
 		{
 			"Name": "WeatherSystem",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/6a646be0d2194fdc91c211d3e288f044"
 		},
 		{
 			"Name": "AssetsCleaner",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/3caab7c6e81f449296989122c043ae21"
+		},
+		{
+			"Name": "ChaosNiagara",
+			"Enabled": false
+		},
+		{
+			"Name": "Niagara",
+			"Enabled": true
 		}
 	]
 }
